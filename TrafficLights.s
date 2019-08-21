@@ -1,4 +1,4 @@
-@ Uvic CSC230 - Traffic Light Simulation Program
+@ Uvic CSC 230 (Spring 2014) - Traffic Light Simulation Program
 @ Embest Board (ARM Assembly)
 @ Daniel Gilroy V00813027
 
